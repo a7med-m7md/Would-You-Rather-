@@ -1,0 +1,48 @@
+.question-container {
+    width: 50%;
+    margin: auto;
+    border: 1px thistle solid
+}
+
+.header {
+    border-bottom: black 1px solid;
+    padding: 5px;
+    text-align: center;
+}
+
+
+.text {
+    color: grey;
+    padding: 10px;
+}
+
+.wouldrather{
+    margin: 10px;
+}
+
+.input-field {
+    width: 90%;
+    margin: auto;
+    display: block;
+    height: 25px;
+    padding: 10px;
+    font-size: larger;
+}
+
+.or {
+    text-align: center;
+}
+
+.btn {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    width: 94%;
+    font-size: larger;
+    color: white;
+    padding: 10px;
+    background-color: lightseagreen;
+    border-style: none;
+    border-radius: 5px;
+}

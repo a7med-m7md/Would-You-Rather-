@@ -1,0 +1,33 @@
+*{
+    text-decoration: none;
+}
+.nav {
+    margin :25px;
+}
+
+li {
+    display: inline;
+    margin: 50px;
+    margin-top: 10px;
+}
+
+.active {
+    font-weight: bolder;
+    color: black;
+}
+
+.log-out-btn {
+    float: right ;
+    size: larger;
+    color: black;
+    background-color: aqua ;
+    border-style: none ;
+    padding: 5px;
+    font-size: larger
+}
+
+.loged-user {
+    float: right;
+    background-color: thistle;
+    padding: 5px
+}

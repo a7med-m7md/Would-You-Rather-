@@ -1,0 +1,71 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.card-container {
+    display: flex;
+    border: thistle 1px solid;
+    margin: auto;
+    justify-content: space-between;;
+    width: 50%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.info {
+    display: flex;
+}
+
+
+.user-name {
+    padding: 10px;
+    margin: 10px;
+    width: 25%;
+}
+
+.line {
+    margin: 25px;
+    height: 120px;
+    width: 1px;
+    background-color: thistle;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.line-2 {
+    height: 1px;
+    background-color: thistle;
+}
+
+.score {
+    width: 25%;
+    margin: auto;
+    border: thistle 1px solid;
+    margin-right: 20px;
+}
+
+.score-header {
+    text-align: center;
+    border-bottom: thistle 1px solid;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: whitesmoke;
+}
+
+.score-number {
+    background-color: cyan;
+    color: white;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
